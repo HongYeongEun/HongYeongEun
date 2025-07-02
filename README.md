@@ -42,7 +42,7 @@ Flutter 기반 여행 주사위 보드게임 앱
 → 실시간 동기화, 3D 주사위, 일정 생성, Firestore 연동  
 → Google Places API + GPT API 활용
 
-### 🅿️ MyP[나의 주차장](https://github.com/KOHYEONJEONG/myP)
+### 🅿️ [MyP 나의 주차장](https://github.com/KOHYEONJEONG/myP)
 Spring Framework 기반 목적지 인근의 공공주차장을 거리와 요금을 기준으로 비교 분석해
 가장 효율적인 주차장을 추천해주는 주차장 안내 웹 사이트
 
